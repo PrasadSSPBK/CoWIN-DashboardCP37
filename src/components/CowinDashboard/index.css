@@ -1,0 +1,58 @@
+.mainContainer {
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 20px;
+}
+.websiteName {
+  color: #2cc6c6;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+  padding-top: 3px;
+}
+.websiteHeading {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 700;
+}
+.failure {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 700;
+}
+.failureImg {
+  height: 200px;
+  width: 200px;
+}
+
+.imContainer {
+  display: flex;
+}
+.websiteLogo {
+  height: 30px;
+  width: 30px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.ageContainer {
+  background-color: #1c1c2b;
+  margin: 20px;
+  padding: 20px;
+}
+
+.head {
+  color: #6c757d;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 700;
+}
+.failureContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
